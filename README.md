@@ -2,6 +2,7 @@
  
 <h2>I'm Software Test Specialist</h2>
 
+
 <h3>About me 🍀 </h3> 
 
 <p></p>
@@ -68,4 +69,6 @@
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yeliz55&&style=flat-square" align="center" />
 </div> 
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
