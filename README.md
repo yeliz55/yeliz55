@@ -3,7 +3,14 @@
 <h2>I'm Software Test Specialist</h2>
 
 
-<h3>About me 🍀 </h3> 
+<h3>About me 🍀 </h3>
+Java and Object-Oriented Programming
+(OOP) concepts and experience in designing, developing, and
+enhancing automated test scripts for Selenium using Java
+Programming Language.
+Experienced in testing Web Based Applications and automating the test cases using JAVA, Selenium WebDriver, Apache Maven, Cucumber, JUnit, JIRA, TestNG, API, SQL and JDBC.
+I have a solid understanding and ability to use Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) processes within Agile/Scrum Methodology in line with the training I have received. While working in Agile/Scrum environment, I attended many meetings such as Sprint Planning, Backlog Grooming, Daily Standup, Sprint Review, Sprint Demo and Retrospective. Strong analytical and communication skills, a strong work ethic, ability to ask research questions, fun and easy, organized and I like to elaborate.
+
 
 <p></p>
 
@@ -28,11 +35,11 @@
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
-[github]: 
+[github]: https://github.com/yeliz55
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
-[linkedin]:
+[linkedin]:https://www.linkedin.com/in/yelizerdogan/
 
 <h3> Tools I Use:</h3>
 
