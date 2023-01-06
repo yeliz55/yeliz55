@@ -5,10 +5,8 @@
 
 <h3>About me 🍀 </h3>
 Java and Object-Oriented Programming
-(OOP) concepts and experience in designing, developing, and
-enhancing automated test scripts for Selenium using Java
-Programming Language.
-Experienced in testing Web Based Applications and automating the test cases using JAVA, Selenium WebDriver, Apache Maven, Cucumber, JUnit, JIRA, TestNG, API, SQL and JDBC.
+(OOP) concepts and experience in designing, developing, and enhancing automated test scripts for Selenium using Java Programming Language.
+Experienced in testing Web Based Applications and automating the test cases using JAVA, Selenium WebDriver, Apache Maven, Cucumber, JUnit, JIRA, TestNG, API, SQL,JDBC,JMeter and Appium.
 I have a solid understanding and ability to use Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) processes within Agile/Scrum Methodology in line with the training I have received. While working in Agile/Scrum environment, I attended many meetings such as Sprint Planning, Backlog Grooming, Daily Standup, Sprint Review, Sprint Demo and Retrospective. Strong analytical and communication skills, a strong work ethic, ability to ask research questions, fun and easy, organized and I like to elaborate.
 
 
