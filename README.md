@@ -83,6 +83,8 @@ I have a solid understanding and ability to use Software Development Lifecycle (
   <img src="https://komarev.com/ghpvc/?username=yeliz55&&style=flat-square" align="center" />
 </div> 
 
+![snake gif](https://github.com/yeliz55/yeliz55/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
