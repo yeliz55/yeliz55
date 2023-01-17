@@ -41,6 +41,11 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 [testng]: https://testng.org/doc/
 [linkedin]:https://www.linkedin.com/in/yelizerdogan/
 
+
+
+
+
+
 <h3> Tools I Use:</h3>
 
 [<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>][intellij]
@@ -53,6 +58,10 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a>  
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+
+
+
+
 
 
 
@@ -76,8 +85,8 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeliz55&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeliz55&layout=compact&langs_count-16&theme=dracula"/>
+
+
  
  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yeliz55&&style=flat-square" align="center" />
