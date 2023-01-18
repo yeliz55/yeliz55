@@ -92,7 +92,7 @@ I have a solid understanding and ability to use Software Development Lifecycle (
   <img src="https://komarev.com/ghpvc/?username=yeliz55&&style=flat-square" align="center" />
 </div> 
 
-![snake gif](https://github.com/yeliz55/yeliz55/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/yeliz55/yeliz55/blob/output/github-contribution-grid-snake.gif)-->
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeliz55&show_icons=true&locale=en&layout=compact" alt="yeliz55" /></p>
@@ -100,6 +100,15 @@ I have a solid understanding and ability to use Software Development Lifecycle (
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeliz55&" alt="yeliz55" /></p>
 -->
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MevlutOrcan&&style=flat-square" align="center" />
+ </div>
+ <br>
+<p align="center">
+      <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/hanifehazirlar?cardType=github&theme=monokai&Text=DD971A") />
+      <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanifehazirlar&layout=compact&langs_count=8&theme=monokai&Text=DD971A"/>
+</p>
 
 
 
