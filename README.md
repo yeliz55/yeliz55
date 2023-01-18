@@ -94,6 +94,12 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 
 ![snake gif](https://github.com/yeliz55/yeliz55/blob/output/github-contribution-grid-snake.gif)
 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeliz55&show_icons=true&locale=en&layout=compact" alt="yeliz55" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suatoruc&show_icons=true&locale=en" alt="suatoruc" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeliz55&" alt="yeliz55" /></p>
+-->
+
 
 
 
